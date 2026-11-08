@@ -14,7 +14,7 @@
    "source": "causal-architect/paper/vol3-casebook.pdf: pdfinfo Pages"
   },
   "pages_causal": {
-   "value": 9,
+   "value": 10,
    "source": "causal-architect/paper/causal-visuals.pdf: pdfinfo Pages"
   },
   "pages_bundle": {
@@ -22,11 +22,11 @@
    "source": "causal-architect/paper/bundle-hybrid-publication.pdf: pdfinfo Pages"
   },
   "ca_pages": {
-   "value": 114,
+   "value": 115,
    "source": "causal-architect/paper: fünf PDF, Summe der Seiten"
   },
   "bell_pages": {
-   "value": 20,
+   "value": 22,
    "source": "data/arxiv/papers.json: BellsUngleichung"
   },
   "std_warrants": {
